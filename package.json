@@ -1,0 +1,23 @@
+{
+  "name": "is-even",
+  "version": "1.0.0",
+  "description": "checks whether a given number is even or odd.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manoj-r-mw/is-even.git"
+  },
+  "keywords": [
+    "NPM",
+    "even"
+  ],
+  "author": "Manoj R",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manoj-r-mw/is-even/issues"
+  },
+  "homepage": "https://github.com/manoj-r-mw/is-even#readme"
+}
