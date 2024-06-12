@@ -1,5 +1,5 @@
 {
-  "name": "is-even",
+  "name": "@manoj-r/is-even",
   "version": "1.0.0",
   "description": "checks whether a given number is even or odd.",
   "main": "index.js",
